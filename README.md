@@ -1,7 +1,7 @@
-EastSideNEL
+WestSideNEL
 ===========
 
-[![EastSideNEL Download](https://img.shields.io/github/downloads/MC20018/EastSideNEL/total?color=0&logo=github)](https://github.com/MC20018/EastSideNEL/releases/latest)
+[![WestSideNEL Download](https://img.shields.io/github/downloads/MC20018/WestSideNEL/total?color=0&logo=github)](https://github.com/MC20018/WestSideNEL/releases/latest)
 [![QQ](https://img.shields.io/badge/QQ_Unofficial-1090382774-blue)](https://qm.qq.com/q/yUpUFBbcLm)
 
 ## 本项目基于 [Codexus.OpenSDK](https://github.com/corpnetease/Codexus.OpenSDK) 以及 Codexus.Development.SDK 制作的第三方启动器
@@ -56,19 +56,19 @@ EastSideNEL
 3. 安装想要的插件
 
 ### 数据目录在哪？
-1. 网页数据位于 C:\ProgramData\EastSide
+1. 网页数据位于 C:\ProgramData\WestSide
 2. 用户的数据或软件的数据在软件同级目录的 data 文件夹
 
 ### 项目结构
-- `EastSide` - 主项目（协议处理、管理器、事件处理）
-- `EastSide.Core` - 核心库（网易 API、工具类、加密）
-- `EastSide.IRC` - IRC 聊天系统（跨服聊天、TAB 列表、皮肤注入）
-- `EastSide.UI` - 用户界面（Photino + Web 前端）
+- `WestSide` - 主项目（协议处理、管理器、事件处理）
+- `WestSide.Core` - 核心库（网易 API、工具类、加密）
+- `WestSide.IRC` - IRC 聊天系统（跨服聊天、TAB 列表、皮肤注入）
+- `WestSide.UI` - 用户界面（Photino + Web 前端）
 
 ## 开源协议
 本项目遵循 **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)** 协议开源
 ```text
-EastSideNEL Copyright (C) 2026 FandMC Studio
+WestSideNEL Copyright (C) 2026 FandMC Studio
 本程序是自由软件，你可以重新发布或修改它，但必须：
 - 保留原始版权声明
 - 采用相同许可证分发
@@ -78,7 +78,7 @@ EastSideNEL Copyright (C) 2026 FandMC Studio
 
 ## 项目历史
 
-EastSideNEL 经历了多次更名与重构，以下是完整的演变历程：
+WestSideNEL 基于EastSideNEL进行二次更改，EastSideNEL经历了多次更名与重构，以下是完整的演变历程：
 
 | 阶段 | 名称 | 提交数 | 备注 |
 |------|------|--------|------|
@@ -88,3 +88,7 @@ EastSideNEL 经历了多次更名与重构，以下是完整的演变历程：
 | 4 | OxygenNEL | 15+ | 后期转为闭源，部分提交记录丢失 |
 | 5 | NorthSideNEL | — | 未开源，无提交记录 |
 | 6 | EastSideNEL | 进行中 | 当前版本，重新开源 |
+
+| 阶段 | 名称 | 提交数 | 备注 |
+|------|------|--------|------|
+| 1 | WestSideNEL | 进行中 | 基于 EastSide 的二改版本，具有基本功能 |
