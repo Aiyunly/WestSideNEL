@@ -63,7 +63,7 @@ WestSideNEL
 - `WestSide` - 主项目（协议处理、管理器、事件处理）
 - `WestSide.Core` - 核心库（网易 API、工具类、加密）
 - `WestSide.IRC` - IRC 聊天系统（跨服聊天、TAB 列表、皮肤注入）
-- `WestSide.UI` - 用户界面（Photino + Web 前端）
+- `WestSide.UI` - 用户界面（WPF + Web 前端）
 
 ## 开源协议
 本项目遵循 **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)** 协议开源
