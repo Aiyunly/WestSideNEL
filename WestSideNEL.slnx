@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WestSide/WestSide.csproj" />
+  <Project Path="WestSide.Core/WestSide.Core.csproj" />
+  <Project Path="WestSide.UI/WestSide.UI.csproj" />
+  <Project Path="WestSide.IRC/WestSide.IRC.csproj" />
+</Solution>
