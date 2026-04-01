@@ -169,7 +169,7 @@ public class SPlayerInfoUpdate : IPacket
             {
                 WriteUuid(buffer, uuid);
                 buffer.WriteBoolean(true);
-                var nbt = TextComponentSerializer.Serialize(new TextComponent { Text = $"§7[§bES§7] {username}" });
+                var nbt = TextComponentSerializer.Serialize(new TextComponent { Text = $"§7[§bWS§7] {username}" });
                 buffer.WriteBytes(nbt);
                 nbt.Release();
             }
