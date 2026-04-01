@@ -1,7 +1,7 @@
 WestSideNEL
 ===========
 
-[![WestSideNEL Download](https://img.shields.io/github/downloads/MC20018/WestSideNEL/total?color=0&logo=github)](https://github.com/MC20018/WestSideNEL/releases/latest)
+[![WestSideNEL Download](https://img.shields.io/github/downloads/Aiyunly/WestSideNEL/total?color=0&logo=github)](https://github.com/Aiyunly/WestSideNEL/releases/latest)
 [![QQ](https://img.shields.io/badge/QQ_Unofficial-1090382774-blue)](https://qm.qq.com/q/yUpUFBbcLm)
 
 ## 本项目基于 [Codexus.OpenSDK](https://github.com/corpnetease/Codexus.OpenSDK) 以及 Codexus.Development.SDK 制作的第三方启动器
