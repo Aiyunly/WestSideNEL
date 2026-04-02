@@ -49,6 +49,13 @@ WestSideNEL
 ### 安装步骤
 1. 在 QQ 群下载最新的构建结果
 2. 双击打开即可
+3. 如手动构建请看下面
+
+### 构建指令
+此指令适用于小白，安装环境后可在项目根目录下执行并生成publish文件夹在根目录，里面的exe即为文件
+```code
+dotnet publish WestSide.UI/WestSide.UI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:PublishTrimmed=false -o publish
+```
 
 ### 怎么装插件？
 1. 找到插件页面
